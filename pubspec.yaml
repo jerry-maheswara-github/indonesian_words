@@ -1,8 +1,6 @@
 name: indonesian_words
 description: >
-  Utilities for working with Indonesian words. Counts syllables, generates
-  well-sounding word combinations, and provides access to the top 5000 Indonesian
-  words by usage.
+  Utilities for working with Indonesian words.
 version: 1.0.1
 homepage: https://github.com/jerry-maheswara-github/indonesian_words
 
