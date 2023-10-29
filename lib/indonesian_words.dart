@@ -4,7 +4,7 @@
 // Moded by Jerry Maheswara fot educational purpose.
 
 /// Support for working with Indonesian text.
-library english_words;
+library indonesian_words;
 
 export 'src/syllables.dart';
 export 'src/word_pair.dart';
